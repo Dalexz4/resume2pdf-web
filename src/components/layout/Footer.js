@@ -38,7 +38,7 @@ const Footer = ({
           classNames(
             'site-footer-inner',
             topDivider && 'has-top-divider'
-          )}>
+          )}>cle
           <div className="footer-top space-between text-xxs">
             <Logo />
             <FooterSocial />
